@@ -1,0 +1,11 @@
+Player(PlayerID, FullName, ShortName, Height, Position, Nationality, Age, Weight, RosterCategory, Number)
+
+Team(TeamID, Name, Points, )
+
+Game(Team1, Team2, Referee, Stadium, Date, Hour, Result)
+
+Stadium(Name, Team, Capacity, YearCreation, Location)
+
+Referee(Name, Age)
+
+Manager(Name, Team, Age)
