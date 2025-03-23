@@ -88,6 +88,18 @@
         <mxCell id="GQkD6B1lI_t8OA1kjlGG-29" value="Game" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="400" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GQkD6B1lI_t8OA1kjlGG-30" value="ManagerID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="520" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GQkD6B1lI_t8OA1kjlGG-31" value="Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="520" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GQkD6B1lI_t8OA1kjlGG-32" value="Age" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="520" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GQkD6B1lI_t8OA1kjlGG-33" value="Referee" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
